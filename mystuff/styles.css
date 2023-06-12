@@ -5,4 +5,7 @@ body {
 }
 p {
     color: grey;
+
+li {
+    color: green;
 }
