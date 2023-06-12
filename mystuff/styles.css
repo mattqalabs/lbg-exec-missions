@@ -3,3 +3,7 @@ body {
     background-color: linen;
     color: darkmagenta;
 }
+
+li {
+    color: green;
+}
